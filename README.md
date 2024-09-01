@@ -29,7 +29,7 @@ Installation && Build dependencies :
  
 
 
-1. git clone https://github.com/venkateshdudyala/anonymus_sms 
+1. git clone 
 
 
 2. sudo bash rq.sh
